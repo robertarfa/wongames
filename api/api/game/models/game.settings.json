@@ -41,12 +41,7 @@
     "rating": {
       "type": "enumeration",
       "enum": [
-        "Free",
-        "peg3",
-        "peg7",
-        "peg12",
-        "peg16",
-        "peg18"
+        "BR0"
       ]
     },
     "cover": {
